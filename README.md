@@ -1,7 +1,14 @@
 # KisekiAI Studios Portfolio
 
+Portfolio for Kiseki Studios. 
+
+## Use this code:
+
 ```
-make r #Run the file
+    git clone https://github.com/NotSooShariff/KisekiAI.git
+    cd KisekiAI
+    npm i 
+    npm run dev 
 ```
 
 
